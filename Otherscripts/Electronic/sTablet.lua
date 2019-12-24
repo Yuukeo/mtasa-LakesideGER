@@ -1,0 +1,5 @@
+--//                                              \\--
+--||   Project: Lakeside RP - MTA:SA Roleplay     ||--
+--||   Developers: DorteY(Lorenzo)                ||--
+--||   2019 - All rights reserved.                ||--
+--\\                                              //--

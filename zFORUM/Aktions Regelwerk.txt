@@ -1,0 +1,42 @@
+§1 - Allgemeine Aktionsregeln
+
+§1.1 - Bei Aktionen dürfen lediglich Fahrzeuge der teilnehmenden Fraktionen bzw. Gangs, sowie für die Aktion vom Server erstellte Fahrzeuge genutzt werden.
+§1.2 - Fahrzeuge welche sich an Aktions-Schauplätzen befinden, dürfen nicht mittels der Handbremse abgestellt werden.
+§1.3 - Das Rescue Team darf sich in keinster Weise an Aktionen beteiligen (Ausnahme siehe §3.1).
+§1.4 - Das Mitfahren von Zivilisten auf/in Fahrzeugen ist während Aktionen nicht gestattet.
+§1.5 - Bei Aktionen ( WT, DT, etc. ) darf die Fraktion, die als erstes den Startpunkt besetzt, nicht bei Ihrer Aktivität gestört werden.
+§1.6 - Ein unbeteiligter Zivilist, der sich beim Aktionsgeschehen aufhält, ist dreimal zu binden, bevor diesem ebenfalls Wanteds vergeben werden dürfen.
+
+
+§2 - Waffentruck & Drogentruck
+§2.1 - Es ist untersagt, den Truck in Sichtweite des Startpunkts und/oder während der ersten Minute nach Start der Aktion anzugreifen.
+§2.2 - Ein Truck darf sich maximal 3 Minuten am selben Ort aufhalten.
+§2.2.1 Sollte das Fahrzeug defekt sein, gelten maximal 5 Minuten für den Weitertransport der zu transportierenden Objekte.
+§2.3 - Sollte es dem Gegner nicht möglich sein, den Truck selbst abzugeben, darf dieser unschädlich gemacht werden. Dies ist entweder durch das Zerstören oder Versenken möglich.
+§2.3.1 - Bei vom Staat gestarteten Trucks dürfen alle Bösen Fraktionen gemeinsam gegen diese vorgehen.
+§2.3.2 - Bei von Bösen Fraktionen gestarteten Trucks dürfen der Staat sowie andere Böse Fraktionen gegen diesen vorgehen. Gegenseitig helfen dürfen sich jedoch nur verbündete Böse Fraktionen.
+§2.4 - Zur Beteiligung an einem Waffen- oder Drogentruck zählen: Fahren, Mitfahren, daneben fahren, Trucksurfen, sich am Ablieferungsort befinden, Beamte beschießen oder eine Sperre errichten.
+
+
+§3 - Geiselnahme
+§3.1 - Geiselnahmen dürfen nur von Bösen Fraktionen und deren Bündnispartner im Rahmen einer Roleplay-Aktion durchgeführt werden. Nur Staatsfraktionen dürfen die Geiselnahme verhindern. Das Rescue Team darf aus RP-Gründen hinzugezogen werden.
+§3.2 - Geiseln müssen sich den durch Roleplay geschaffenen Situationen fügen, s.g. Power-RP ist zu vermeiden.
+§3.3 - Staatsfraktionen dürfen während der Geiselnahme die Base der ausführenden Fraktionen betreten.
+§3.4 - Pro Geisel darf ein maximaler Betrag von 50.000$ gefordert werden.
+§3.5 - Während der gesamten Geiselnahme dürfen maximal 3 Geisel in Gewalt genommen werden.
+§3.6 - Geiselnahmen dürfen erst ab 5 Staatsfraktionisten gestartet werden.
+§3.7 - Der Ort der Geiselnahme muss von mehreren Seiten stürmbar sein.
+§3.8 - Das Ziel der Geiselnehmer ist es, dass Geld zu bekommen. Die Geisel darf nur im äußersten Notfall getötet werden. Für die Staatsfraktionisten liegt die oberste Priorität darin, die Geisel zu retten.
+§3.9 - Geiselnahmen dürfen durch die selbe Fraktion nur alle 5h gestartet werden.
+
+
+§4 - Razzia
+§4.1 - Die Base einer Bösen Fraktion darf nur vom Staat getürmt werden, wenn die Summe der Wanteds bei den Fraktionsmitgliedern mindestens 10 beträgt.
+§4.2 - Die Stürmung ist durch einen entsprechenden Bind kenntlich zu machen.
+§4.3 - Sollte sich ein Fraktionsmitglied durch eine entsprechende Animation (Hände hoch, ducken) ergeben, so sind diese festzunehmen, jedoch nicht zu beschießen. Persönliche Items wie Waffen oder Drogen dürfen sichergestellt werden.
+§4.4 - Sollte sich ein Mitglied der Bösen Fraktion im Fraktionsinterior befinden, ist dieser von der Razzia ausgenommen, darf jedoch später nicht bei der Aktion beteiligen.
+
+
+§5 - Gangwar
+§5.1 - In einem Gangwar dürfen nur folgende Waffen genutzt werden: Deagle, MP5, M4 & Rifle.
+§5.2 - Ein Gangwar darf nur mit einer beglichenen Anzahl von Angreifen & Verteidigern gestartet werden.

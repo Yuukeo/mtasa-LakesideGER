@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (GlenPHouse01_LAx) (1)" breakable="true" interior="0" alpha="255" model="3639" doublesided="true" scale="1" dimension="0" posX="2892.6001" posY="-2146.3" posZ="6.6" rotX="357" rotY="0" rotZ="256"></object>
+    <object id="object (GlenPHouse01_LAx) (2)" breakable="true" interior="0" alpha="255" model="3639" doublesided="true" scale="1" dimension="0" posX="2882.2" posY="-2164.2" posZ="6.3" rotX="359" rotY="0" rotZ="227.999"></object>
+</map>
