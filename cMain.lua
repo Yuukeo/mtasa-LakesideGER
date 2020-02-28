@@ -9,7 +9,6 @@ Gsx=GLOBALscreenX/1920
 Gsy=GLOBALscreenY/1080
 
 setOcclusionsEnabled(false)
---setWorldSoundEnabled(5,false)
 
 loadstring(exports.dgs:dgsImportFunction())()
 lp=getLocalPlayer()
